@@ -1,0 +1,22 @@
+{
+  "name": "car-forum",
+  "version": "1.0.0",
+  "description": "A forum for cars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susps/car-forum.git"
+  },
+  "author": "susps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susps/car-forum/issues"
+  },
+  "homepage": "https://github.com/susps/car-forum#readme",
+  "dependencies": {
+    "firebase": "^9.18.0"
+  }
+}
